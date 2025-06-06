@@ -1,8 +1,10 @@
 # Project: Animal Trading Card
 
-## Attributions:
+### <p style="font-size: 24px"> Attributions:</p>
 
 Photo by Pia B: https://www.pexels.com/photo/selective-focus-photography-of-octopus-3046629/
+
+<hr>
 
 ### Example Card:
 <img src="./images/design-prototype.png" alt="Animal Card">
@@ -10,17 +12,15 @@ Photo by Pia B: https://www.pexels.com/photo/selective-focus-photography-of-octo
 ### Grading Rubric:
 <img src="./images/design-prototype-rubric.png" alt="rubric for animal trading card">
 
-<hr>
-
-# Skills Learned from the Animal Trading Card Project
-## 1. HTML (HyperText Markup Language)
+### <p style="font-size: 30px"> Skills Learned from the Animal Trading Card Project:</p>
+### <p style="font-size: 24px"> 1. HTML (HyperText Markup Language)</p>
 - Structuring content: You learned how to build the structure of a web page using semantic elements like:
     - &lt;div&gt;, &lt;img&gt;, &lt;h1&gt;, &lt;p&gt;, &lt;ul&gt;, &lt;li&gt;, etc.
 - Using attributes:
     - <code>src</code>, <code>alt</code>, <code>class</code>, and <code>id</code> to give meaning and functionality to elements.
 - Organizing content hierarchically to reflect the card's design layout.
 
-## 2. CSS (Cascading Style Sheets)
+### <p style="font-size: 24px"> 2. CSS (Cascading Style Sheets)</p>
 - Styling HTML elements:
     - Changed colors, fonts, spacing, and layout to match the design prototype.
 - Box Model concepts:
@@ -34,8 +34,13 @@ Photo by Pia B: https://www.pexels.com/photo/selective-focus-photography-of-octo
 - Backgrounds and borders:
     - Customized the appearance of containers with background colors, borders, and border-radius for rounded corners.
 
-## 3.  Project-Based Thinking
+### <p style="font-size: 24px"> 3.  Project-Based Thinking</p>
 - **Interpreting a design prototype** and translating it into code.
 - **Debugging and refining styles** to match a visual goal.
 - **Creativity and customization** by choosing your own animal and adjusting the design accordingly.
+
+<hr>
+
+### <p style="font-size: 30px">Final Thoughts:</p>
+*Add final thoughts after completing*
 
