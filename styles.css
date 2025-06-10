@@ -36,6 +36,10 @@ span {
     font-weight: bold;
 }
 
+p {
+    font-family: "Open Sans", sans-serif;
+}
+
 .card {
     width: 333px;
     border: 1px solid #333;
