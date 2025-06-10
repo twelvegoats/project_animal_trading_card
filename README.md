@@ -54,3 +54,6 @@ Interpreting a design goal and transforming it into code helped sharpen my eye f
 
 Overall, this project solidified my understanding of CSS as a tool for turning structure into style, and gave me the confidence to create visually polished, professional-looking components.
 
+## Final Project
+<img src="./images/final.png" alt="Final Project">
+
