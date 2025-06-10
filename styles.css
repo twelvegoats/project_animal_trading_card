@@ -3,3 +3,37 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #148E9C;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+    border-radius: 15px;
+}
+
+ul {
+    list-style: none;
+}
+
+span {
+    font-weight: bold;
+}
+
+.card {
+    width: 330px;
+    border: 1px solid #333;
+    border-radius: 15px;
+    background-color: #C3AC60;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    box-shadow: 5px 5px 5px 5px rgba(61, 59, 59, 0.6);
+}
